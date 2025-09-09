@@ -8,5 +8,9 @@
 body{
 font-family: "Roboto", sans-serif;
 color: darkmagenta;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
 
 }

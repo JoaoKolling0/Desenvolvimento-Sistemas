@@ -15,3 +15,10 @@ height: 100ch;
 
 
 }
+
+.barra-horizontal{
+    height: 5px;
+    width: 65px;
+    background-color: white;
+    border: 3px;
+}

@@ -1,0 +1,11 @@
+Atividade: Entrega 29/09.
+
+Criar uma home page.
+
+- Critérios:
+ 
+- Utilizar Bootstrap;
+
+- Estilizar com o CSS;
+
+- Criar uma rota com login;

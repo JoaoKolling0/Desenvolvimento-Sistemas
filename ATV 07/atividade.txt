@@ -9,3 +9,6 @@ Criar uma home page.
 - Estilizar com o CSS;
 
 - Criar uma rota com login;
+
+Adendo:
+Tem uma cópia dos objetivos no meu docs;
